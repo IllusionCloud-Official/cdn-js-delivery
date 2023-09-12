@@ -1616,14 +1616,14 @@ a:hover {
 
 .button {
   font-family: 'Raleway';
-  font-weight: 600;
+  font-weight: 900;
   font-size: 10px;
   display: inline-block;
-  background-color: #2BBA93;
-  border: 1px solid #2BBA93;
+  background-color: #28b08c;
+  border: 1px solid #243141;
   border-bottom: 2px solid #0b80e1;
   padding: 15px 20px;
-  color: #fff;
+  color: #0D0D0D;
   text-transform: uppercase;
   letter-spacing: 2px;
   line-height: 10px;

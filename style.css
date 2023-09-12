@@ -1094,7 +1094,7 @@ header#header+section {
 }
 
 .tt-el-price .el-lists p.disabled {
-  opacity: 0.35;
+  opacity: 0.8;
 }
 
 .tt-el-price .el-lists p.disabled::before {

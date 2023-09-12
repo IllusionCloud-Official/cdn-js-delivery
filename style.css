@@ -32,8 +32,8 @@ header#header .header-wrapper {
 
 header#header #logo {
   display: block;
-  width: 136px;
-  height: 110px;
+  width: 10rem;
+  height: 10rem;
   line-height: 100px;
   text-indent: -9999px;
   float: left;

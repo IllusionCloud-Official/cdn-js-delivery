@@ -458,7 +458,7 @@ header#header+section {
   font-size: 12px;
   font-weight: normal;
   font-family: 'PT Sans';
-  color: #999999;
+  color: #000000;
   text-transform: uppercase;
   line-height: 1em;
   letter-spacing: 2px;
@@ -486,7 +486,7 @@ header#header+section {
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #999999;
+  color: #000000;
   letter-spacing: 0.3px;
   margin: 0px;
   margin-top: 18px;
@@ -981,7 +981,7 @@ header#header+section {
   font-family: 'PT Sans';
   font-size: 13px;
   font-weight: normal;
-  color: #999999;
+  color: #000000;
   margin-top: 15px;
   line-height: 1.2em;
   letter-spacing: 0.5px;
@@ -1077,7 +1077,7 @@ header#header+section {
   font-family: 'PT Sans';
   font-weight: normal;
   letter-spacing: 0.5;
-  color: #999999;
+  color: #000000;
   line-height: 24px;
 }
 
@@ -1099,7 +1099,7 @@ header#header+section {
 
 .tt-el-price .el-lists p.disabled::before {
   content: "\f057";
-  color: #999999;
+  color: #000000;
 }
 
 .tt-el-price .el-btn {
@@ -1144,7 +1144,7 @@ header#header+section {
   font-weight: 400;
   font-family: 'PT Sans';
   letter-spacing: 0.5px;
-  color: #999999;
+  color: #000000;
   line-height: 32px;
 }
 
@@ -1567,7 +1567,7 @@ body {
   font-family: 'PT Sans';
   font-size: 14px;
   line-height: 24px;
-  color: #999999;
+  color: #000000;
 }
 
 h1,
@@ -1884,7 +1884,7 @@ form textarea {
   font-family: 'Raleway';
   font-size: 12px;
   letter-spacing: 1px;
-  color: #999999;
+  color: #000000;
   background-color: transparent;
   padding: 12px 20px;
   margin-bottom: 15px;
@@ -1899,22 +1899,22 @@ form textarea:focus {
 
 form input:not([type="submit"])::-webkit-input-placeholder,
 form textarea::-webkit-input-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 form input:not([type="submit"]):-moz-placeholder,
 form textarea:-moz-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 form input:not([type="submit"])::-moz-placeholder,
 form textarea::-moz-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 form input:not([type="submit"]):-ms-input-placeholder,
 form textarea:-ms-input-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 form textarea {
@@ -2034,11 +2034,11 @@ article.blog-item .entry-meta {
   font-family: 'Raleway';
   font-weight: 600;
   letter-spacing: 0.8px;
-  color: #999999;
+  color: #000000;
 }
 
 article.blog-item .entry-meta a {
-  color: #999999;
+  color: #000000;
 }
 
 article.blog-item .entry-meta span {
@@ -2211,8 +2211,8 @@ article.blog-item .author-info .info-entry .info-title .info-social a.gp {
   font-family: 'PT Sans';
   font-weight: 500;
   font-size: 12px;
-  color: #999999;
-  border-left: 1px solid #999999;
+  color: #000000;
+  border-left: 1px solid #000000;
   margin-left: 20px;
   padding-left: 20px;
 }
@@ -2222,7 +2222,7 @@ article.blog-item .author-info .info-entry .info-title .info-social a.gp {
   font-weight: 400;
   font-size: 13px;
   line-height: 28px;
-  color: #999999;
+  color: #000000;
   margin-bottom: 10px;
 }
 
@@ -2287,22 +2287,22 @@ article.blog-item .author-info .info-entry .info-title .info-social a.gp {
 
 #respond .comment-form input:not([type="submit"])::-webkit-input-placeholder,
 #respond .comment-form textarea::-webkit-input-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 #respond .comment-form input:not([type="submit"]):-moz-placeholder,
 #respond .comment-form textarea:-moz-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 #respond .comment-form input:not([type="submit"])::-moz-placeholder,
 #respond .comment-form textarea::-moz-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 #respond .comment-form input:not([type="submit"]):-ms-input-placeholder,
 #respond .comment-form textarea:-ms-input-placeholder {
-  color: #999999;
+  color: #000000;
 }
 
 #respond .comment-form input:not([type="submit"]) {
@@ -3018,14 +3018,14 @@ body.coming-soon .footer-call2action {
 }
 
 .portfolio-item .entry-title .el-cats a {
-  color: #999999;
+  color: #000000;
 }
 
 .portfolio-item .entry-title .el-likes {
   font-family: 'PT Sans';
   font-weight: 400;
   font-size: 14px;
-  color: #999999;
+  color: #000000;
   position: absolute;
   right: 0px;
   top: 50%;
@@ -3077,7 +3077,7 @@ body.coming-soon .footer-call2action {
   font-family: 'PT Sans';
   font-size: 15px;
   letter-spacing: 0.7px;
-  color: #999999;
+  color: #000000;
   vertical-align: middle;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -3177,13 +3177,13 @@ body.coming-soon .footer-call2action {
 
 .widget ul li a,
 .widget ol li a {
-  color: #999999;
+  color: #000000;
 }
 
 .widget ul li span,
 .widget ol li span {
   float: right;
-  color: #999999;
+  color: #000000;
 }
 
 .widget ul li:hover a,
@@ -3253,7 +3253,7 @@ body.coming-soon .footer-call2action {
 }
 
 .widget .recent-posts .rp-item h5 a {
-  color: #999999;
+  color: #000000;
 }
 
 .widget .recent-posts .rp-item .rp-date {
@@ -3311,7 +3311,7 @@ body.coming-soon .footer-call2action {
   font-weight: normal;
   font-size: 12px;
   letter-spacing: 1px;
-  color: #999999;
+  color: #000000;
   padding: 10px 20px;
   padding-right: 44px !important;
   width: 100%;
@@ -3333,7 +3333,7 @@ body.coming-soon .footer-call2action {
   font-size: 16px;
   line-height: 100%;
   padding: 0px 15px;
-  color: #999999;
+  color: #000000;
 }
 
 /* Footer
@@ -3353,7 +3353,7 @@ body.coming-soon .footer-call2action {
 }
 
 .footer-call2action .entry-text a {
-  color: #999999;
+  color: #000000;
 }
 
 #footer {
